@@ -36,7 +36,7 @@ This project implements a **multiple linear regression** model to predict a vehi
 ##  Installation & Usage
 
 ### Run the Analysis
-python mpg_regression.py
+python auto-regression.py
 
 ### Prerequisites
 ```bash
